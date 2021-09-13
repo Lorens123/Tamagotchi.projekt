@@ -1,0 +1,16 @@
+C:\Users\lorens.vinge\Documents\Programmring 2\Tamagotchi.projekt\Tamagotchi.projekt\bin\Debug\net5.0\Tamagotchi.projekt.exe
+C:\Users\lorens.vinge\Documents\Programmring 2\Tamagotchi.projekt\Tamagotchi.projekt\bin\Debug\net5.0\Tamagotchi.projekt.deps.json
+C:\Users\lorens.vinge\Documents\Programmring 2\Tamagotchi.projekt\Tamagotchi.projekt\bin\Debug\net5.0\Tamagotchi.projekt.runtimeconfig.json
+C:\Users\lorens.vinge\Documents\Programmring 2\Tamagotchi.projekt\Tamagotchi.projekt\bin\Debug\net5.0\Tamagotchi.projekt.runtimeconfig.dev.json
+C:\Users\lorens.vinge\Documents\Programmring 2\Tamagotchi.projekt\Tamagotchi.projekt\bin\Debug\net5.0\Tamagotchi.projekt.dll
+C:\Users\lorens.vinge\Documents\Programmring 2\Tamagotchi.projekt\Tamagotchi.projekt\bin\Debug\net5.0\ref\Tamagotchi.projekt.dll
+C:\Users\lorens.vinge\Documents\Programmring 2\Tamagotchi.projekt\Tamagotchi.projekt\bin\Debug\net5.0\Tamagotchi.projekt.pdb
+C:\Users\lorens.vinge\Documents\Programmring 2\Tamagotchi.projekt\Tamagotchi.projekt\obj\Debug\net5.0\Tamagotchi.projekt.csproj.AssemblyReference.cache
+C:\Users\lorens.vinge\Documents\Programmring 2\Tamagotchi.projekt\Tamagotchi.projekt\obj\Debug\net5.0\Tamagotchi.projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorens.vinge\Documents\Programmring 2\Tamagotchi.projekt\Tamagotchi.projekt\obj\Debug\net5.0\Tamagotchi.projekt.AssemblyInfoInputs.cache
+C:\Users\lorens.vinge\Documents\Programmring 2\Tamagotchi.projekt\Tamagotchi.projekt\obj\Debug\net5.0\Tamagotchi.projekt.AssemblyInfo.cs
+C:\Users\lorens.vinge\Documents\Programmring 2\Tamagotchi.projekt\Tamagotchi.projekt\obj\Debug\net5.0\Tamagotchi.projekt.csproj.CoreCompileInputs.cache
+C:\Users\lorens.vinge\Documents\Programmring 2\Tamagotchi.projekt\Tamagotchi.projekt\obj\Debug\net5.0\Tamagotchi.projekt.dll
+C:\Users\lorens.vinge\Documents\Programmring 2\Tamagotchi.projekt\Tamagotchi.projekt\obj\Debug\net5.0\ref\Tamagotchi.projekt.dll
+C:\Users\lorens.vinge\Documents\Programmring 2\Tamagotchi.projekt\Tamagotchi.projekt\obj\Debug\net5.0\Tamagotchi.projekt.pdb
+C:\Users\lorens.vinge\Documents\Programmring 2\Tamagotchi.projekt\Tamagotchi.projekt\obj\Debug\net5.0\Tamagotchi.projekt.genruntimeconfig.cache
