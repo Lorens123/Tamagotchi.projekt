@@ -20,6 +20,9 @@ namespace Tamagotchi.projekt
             Console.WriteLine("2. Hälsa på den?");
             Console.WriteLine("3. Mata den?");
             Console.WriteLine("4. Göra ingenting?");
+            //1. När spelaren valt en handling, kör motsvarande metod och fråga sedan igen.
+            //2. Varje gång spelaren gör ett val så körs också Tick.
+            //3. Om tamagotchin är död avslutas spelloopen.
 
 
             int val = int.Parse(Console.ReadLine());
