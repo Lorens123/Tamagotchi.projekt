@@ -20,7 +20,7 @@ namespace Tamagotchi.projekt
 
         public void Feed()
         {
-            hunger++;
+            hunger--;
         }
 
         public void Hi()
@@ -28,6 +28,7 @@ namespace Tamagotchi.projekt
             int i = generator.Next(words.Count);
             Console.WriteLine(words[i]);
             ReduceBoredom();
+
         }
 
         public void Teach(string word)
@@ -36,6 +37,7 @@ namespace Tamagotchi.projekt
 
             words.Add(word);
             ReduceBoredom();
+
         }
 
         public void Tick()
@@ -45,6 +47,7 @@ namespace Tamagotchi.projekt
             if (hunger > 10 || boredom > 10)
             {
                 isAlive = false;
+                Console.WriteLine("R.I.P Lama 2021-2021!");
             }
 
 
