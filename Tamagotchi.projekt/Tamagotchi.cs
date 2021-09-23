@@ -1,3 +1,4 @@
+using System.Linq.Expressions;
 using System.Collections.Generic;
 using System;
 
@@ -5,8 +6,7 @@ namespace Tamagotchi.projekt
 {
     public class Tamagotchi
     {
-        int x;
-        int y;
+
         int hunger = 0;
         int boredom = 0;
         List<string> words = new List<string>();
@@ -37,7 +37,6 @@ namespace Tamagotchi.projekt
 
             words.Add(word);
             ReduceBoredom();
-
         }
 
         public void Tick()
@@ -47,8 +46,9 @@ namespace Tamagotchi.projekt
             if (hunger > 10 || boredom > 10)
             {
                 isAlive = false;
-                Console.WriteLine("R.I.P Lama 2021-2021!");
+                Console.WriteLine("Din Lama dog! Vila i frid!");
             }
+
 
 
         }
